@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>txb_Request Description</name>
+   <tag></tag>
+   <locator>//Edit[@Name = 'Description']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>bk</name>
+      <type>Main</type>
+      <value>//Document[@Name = 'Description']</value>
+   </properties>
+</WindowsElementEntity>

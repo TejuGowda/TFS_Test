@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>mnu_Close and Clean up</name>
+   <tag></tag>
+   <locator>Close and Clean up</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

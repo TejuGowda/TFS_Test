@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TTO-001_Create New Web Object</name>
+   <tag>TTO; TTO-001; REG-1</tag>
+   <comment></comment>
+   <testCaseGuid>766a0ba5-484a-4e06-8413-6a28dc12278a</testCaseGuid>
+</TestCaseEntity>

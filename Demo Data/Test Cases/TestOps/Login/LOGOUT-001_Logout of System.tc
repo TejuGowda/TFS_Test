@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LOGOUT-001_Logout of System</name>
+   <tag>LOGOUT; Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ce92febc-ede9-4d1a-bc67-a28502daced5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>node_Test Case</name>
+   <tag></tag>
+   <locator>Test Cases</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

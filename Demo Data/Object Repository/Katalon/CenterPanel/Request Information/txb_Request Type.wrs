@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>txb_Request Type</name>
+   <tag></tag>
+   <locator>(//Pane[@Name = '${requestName}']//Button[@Name = 'Open'])[1]/parent::ComboBox/Edit</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

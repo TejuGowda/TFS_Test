@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>cbb_RequestType</name>
+   <tag></tag>
+   <locator>//ComboBox[@Name = 'Request Type']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

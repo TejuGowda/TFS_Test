@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ORG-005_View Pending Invitation</name>
+   <tag>ORG; Regression</tag>
+   <comment>DATA End PREPARATION
+Step#5: Verify User added to 'Pending Invitation' list
+Start Verification
+End Verification</comment>
+   <testCaseGuid>b4e77616-1058-4561-9ccf-a29746f02e10</testCaseGuid>
+</TestCaseEntity>

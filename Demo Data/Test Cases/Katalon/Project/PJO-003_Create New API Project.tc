@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PJO-003_Create New API Project</name>
+   <tag>PJO; PJO-002; REG-1</tag>
+   <comment></comment>
+   <testCaseGuid>203eb949-626f-44f8-84d2-94874c5d1bcd</testCaseGuid>
+</TestCaseEntity>

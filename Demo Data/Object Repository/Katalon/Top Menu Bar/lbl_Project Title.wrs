@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>lbl_Project Title</name>
+   <tag></tag>
+   <locator>TitleBar</locator>
+   <locatorStrategy>TAG_NAME</locatorStrategy>
+</WindowsElementEntity>

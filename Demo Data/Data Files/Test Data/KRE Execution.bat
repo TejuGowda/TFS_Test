@@ -1,0 +1,3 @@
+start cmd.exe /c
+call cd /D C:\Users\locnguyen\Downloads\Katalon_Studio_Engine_Windows_64-7.7.5_Thanh2\Katalon_Studio_Engine_Windows_64-7.7.5
+call katalonc -noSplash -runMode=console -projectPath="D:\LocNguyen\Sample Project\Project for KRE Execution\web-service-tests.prj" -testSuitePath="Test Suites/TS1" -executionProfile="default" -browserType="Web Service" -apiKey="b2537256-1fa3-4b65-b8fc-e1cb366d5b67" -orgID=95893

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API-002_Create SOAP Request</name>
+   <tag>API</tag>
+   <comment></comment>
+   <testCaseGuid>0f05b052-84a0-4c70-b0d0-d041f2a2fe23</testCaseGuid>
+</TestCaseEntity>

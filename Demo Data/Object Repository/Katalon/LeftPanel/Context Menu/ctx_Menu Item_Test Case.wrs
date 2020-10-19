@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>ctx_Menu Item_Test Case</name>
+   <tag></tag>
+   <locator>//MenuItem[@Name ='Test Case']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

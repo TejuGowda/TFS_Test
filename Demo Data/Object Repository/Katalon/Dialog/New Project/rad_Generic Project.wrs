@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>rad_Generic Project</name>
+   <tag></tag>
+   <locator>//RadioButton[@Name = 'Generic']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

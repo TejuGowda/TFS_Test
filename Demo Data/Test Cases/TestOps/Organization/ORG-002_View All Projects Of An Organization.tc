@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ORG-002_View All Projects Of An Organization</name>
+   <tag>ORG; Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ccbf3875-5a28-419a-a449-1f1629523f61</testCaseGuid>
+</TestCaseEntity>

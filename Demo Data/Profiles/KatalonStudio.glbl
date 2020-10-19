@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>KatalonStudio</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\Katalon Versions\\Katalon_Studio_Windows_64-7.7.5\\katalon.exe'</initValue>
+      <name>G_KatalonPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>30</initValue>
+      <name>G_TimeOut_Short</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cmd /c start d:\\\\LocNguyen\\\\KatalonTestOps\\\\KREExecution.bat'</initValue>
+      <name>G_BatchExecution</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>60</initValue>
+      <name>G_TimeOut_Long</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>G_ReportFolder</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>G_TestCase_Switch_Time</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\LocNguyen\\Sample Project\\Project for KRE Execution'</initValue>
+      <name>G_Sample_Project_Location</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\LocNguyen\\Generic Project\\Generic Project Test'</initValue>
+      <name>G_Generic_Project_Location</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>false</initValue>
+      <name>G_IsCloseKatalon</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

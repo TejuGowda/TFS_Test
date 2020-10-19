@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>btn_Load New Content</name>
+   <tag></tag>
+   <locator>Load New Content</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

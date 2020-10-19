@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API-001_Create REST Request_GET</name>
+   <tag>API</tag>
+   <comment></comment>
+   <testCaseGuid>c218e6f4-5ae0-4d44-ac3c-dc91f574ae4e</testCaseGuid>
+</TestCaseEntity>

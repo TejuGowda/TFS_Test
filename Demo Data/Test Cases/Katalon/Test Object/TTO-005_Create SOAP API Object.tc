@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TTO-005_Create SOAP API Object</name>
+   <tag>TTO</tag>
+   <comment></comment>
+   <testCaseGuid>b15e4020-c3d9-4e19-a4b4-8132df4b8ba6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LOGIN-001_Login To System</name>
+   <tag>LOGIN; Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1cb0d7a3-a807-46c4-b6b3-e0cc6e09db02</testCaseGuid>
+</TestCaseEntity>

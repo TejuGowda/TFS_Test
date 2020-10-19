@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>obj_Created Test Case</name>
+   <tag></tag>
+   <locator>//TreeItem[@Name = 'Test Cases']//TreeItem[@Name = '${testCaseName}']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

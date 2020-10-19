@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ORG-003_Update Organization Name</name>
+   <tag>ORG; Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8b89741a-0e2a-42e6-b320-30369f20e4aa</testCaseGuid>
+</TestCaseEntity>
