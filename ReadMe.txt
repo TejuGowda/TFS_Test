@@ -1,0 +1,1 @@
+Extrack file ProjectTriggerExecution.zip, copy extracted file to foder containing "Katalon-Regression-Test"
